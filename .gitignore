@@ -1,0 +1,19 @@
+# package directories
+**/node_modules
+**/jspm_packages
+**/dist
+
+# TS build cache
+**/*.tsbuildinfo
+
+# Generated source
+**/gensrc
+
+# Coverage reports
+coverage
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+*.log
